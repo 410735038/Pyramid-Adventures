@@ -3,7 +3,10 @@
 This project is my MOST college student research project 2021.
 
 ## Why I design this game?
-This game is based on <span style="color:red">**TAM**</span> and <span style="color:red">Cognitive Load Theory</span>, I propose one integrated model to test how this game impact students to learn math.  
+This game is based on **TAM** and **Cognitive Load Theory**, I propose one integrated model to test how this game impact students to learn Pythagorean theorem/ Pythagoras' theorem(畢氏定理).  
+Because I think digital game learning can be a more efficient on specific content or subject, one of this is math, I think chemistry can use this way to learn as well. I want to prove digital game learning is a good way to learn as well, not only rely on phyiscal class.  
+
+I hope this game can positive impact to the people who are learning Pythagorean theorem.  
 
 The video link is below  
 https://drive.google.com/file/d/132Taoz-F16_HiiH_CLu9zQcSFQtrxeTZ/view?usp=sharing
