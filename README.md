@@ -1,6 +1,6 @@
 # Pyramid-Adventures
 
-This project is my MOST college student research project 2021.
+This project is my MOST college student research project 2021.  
 And the related resource will be upload after this project done.
 
 ## Why I design this game?
