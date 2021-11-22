@@ -14,7 +14,7 @@ I hope this game can positive impact to the people who are learning Pythagorean 
 * windows 10
 
 #### tips
-Because my experiment is divided into two parts, this game is not completedly, I will push the full version after experiment, thank you for your waiting.  
+Because my experiment is divided into two parts, this game is not completedly, I will push the full version(include code) after experiment, thank you for your waiting.  
 
 ---  
 The video link is below.  
