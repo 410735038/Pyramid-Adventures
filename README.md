@@ -1,7 +1,7 @@
 # Pyramid-Adventures
 
 This project is my MOST college student research project 2021.  
-And the related resource will be upload after this project done.
+And the related resource will be upload after this project done(2022/3/31).
 
 ## Why I design this game?
 This game is based on **TAM** and **Cognitive Load Theory**, I propose one integrated model to test how this game impact students to learn Pythagorean theorem/ Pythagoras' theorem(畢氏定理).  
