@@ -20,6 +20,7 @@ if i have time, i will try to restore my code depend on exe file, so sorry about
 ---  
 The video link is below.  
 https://drive.google.com/file/d/132Taoz-F16_HiiH_CLu9zQcSFQtrxeTZ/view?usp=sharing
+{%youtube youtubeid %}
 
 The download link of my game is below.  
 https://drive.google.com/file/d/1fWaKjY5mlZwGc-QrGWWLhiQoIau631iN/view?usp=sharing
