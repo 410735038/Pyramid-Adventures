@@ -14,7 +14,7 @@ I hope this game can positive impact to the people who are learning Pythagorean 
 * windows 10
 
 #### tips
-Because of some personal issue, I miss my code :(, but i provide my game download link below.  
+Because of some personal issue, I lose my code :(, but i provide my game download link below.  
 if i have time, i will try to restore my code depend on exe file, so sorry about this QQ.  
 
 ---  
